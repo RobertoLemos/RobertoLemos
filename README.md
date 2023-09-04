@@ -1,6 +1,6 @@
 ### Hi there, I'm Roberto Lemos 👋
 
-- 🎓 Sou formada em Análise e Desenvolvimento de Sistemas desde 2022.
+- 🎓 Sou Formada em Análise e Desenvolvimento de Sistemas desde 2022.
 - 📚 I’m currently learning Inglish.
 
 <div>
