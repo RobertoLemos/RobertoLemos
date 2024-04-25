@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Roberto Lemos 👋
 
-[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=flat&color=grey"/>]
 
 - 🎓 I have a degree in Analysis and systems development since 2022.
 - 📚 I’m currently learning Inglish.
