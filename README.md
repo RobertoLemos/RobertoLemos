@@ -1,11 +1,11 @@
 
 
-### Hi there, I'm Roberto Lemos 👋
+### Hi there, I'm Roberto Lemos and welcome to my Github 👋
 
 
 - 🎓 I have a degree in Analysis and systems development since 2022.
 - 📚 I’m currently learning Inglish.
-- 👾 Quality assurance 
+- 💻 Quality assurance 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-lsilva/)
 [![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemosroberto88@gmail.com)
